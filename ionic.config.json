@@ -1,0 +1,7 @@
+{
+  "name": "zoompan",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
