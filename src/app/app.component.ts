@@ -5,10 +5,6 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { HomePage } from '../pages/home/home';
 
-declare var Highcharts;
-declare var Hamsters;
-declare var $: any;
-
 @Component({
   templateUrl: 'app.html'
 })
